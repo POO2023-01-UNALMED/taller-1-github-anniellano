@@ -1,0 +1,1 @@
+Git no permitió hacer un commit a una carpeta. 
