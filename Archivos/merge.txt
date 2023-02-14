@@ -1,0 +1,1 @@
+Github sólo permite la subida de archivos, no de directorios vacíos.
