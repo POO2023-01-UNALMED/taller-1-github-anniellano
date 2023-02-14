@@ -1,0 +1,9 @@
+¿Por qué ahora si puedo crear un commit y subir la carpeta?
+- Ya que GitHub permite la subida de archivos, no de directorios vacíos.
+
+Nombre: Carolina Andrea Llano Vásquez
+Edad: 21
+Aspiraciones: Consolidar los conocimientos que he adquirido de manera independiente y motivarme a seguir aprendiendo por mi cuenta.
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+- Porque se pueden perder ambos archivos o puede prevalecer uno sobre otro y lo que queremos es conservar la información.
